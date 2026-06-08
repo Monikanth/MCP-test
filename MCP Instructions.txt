@@ -1,0 +1,5 @@
+MCP Instructions
+================
+
+This file contains instructions for the MCP (Model Context Protocol) integration.
+
